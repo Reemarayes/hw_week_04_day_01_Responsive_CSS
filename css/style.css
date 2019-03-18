@@ -1,0 +1,60 @@
+body{
+    background-image: url(http://davidklinghoffer.com/wp-content/uploads/2018/03/clean-website-backgrounds-fresh-what-is-the-pacific-alliance-of-clean-website-backgrounds.jpg);
+    background-repeat:no-repeat;
+    background-size: 1300px 700px;  
+}
+
+
+/* header{
+    padding: 14px;
+    height: 120px;
+    background-color: rgba(0,0,0,0.5); 
+} */
+
+.wrapper_row{
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.name{
+    background-color: rgba(0,0,0,0.1); 
+    height: 200px;
+    font-size: 60px;
+    text-align: center;
+    padding: 50px;
+    font-family: arial;
+    border: 1px;
+    
+}
+
+.aboutMe{
+    background-color: rgba(0,0,0,0.3); 
+    height: 200px;
+    font-size: 20px;
+    font-style: bold;
+}
+.projects{
+    background-color: rgba(0,0,0,0.4); 
+    height: 180px;
+    font-size: 20px;
+}
+.skills{
+    background-color: rgba(0,0,0,0.5); 
+    height: 180px;
+    font-size: 20px;
+}
+
+.contact{
+    background-color: rgba(0,0,0,0.1); 
+    height: 380px;
+    font-size: 20px;
+}
+
+p, ul{
+    font-size: 15px;
+}
+
+
+i{
+    font-size: 15px;
+}
